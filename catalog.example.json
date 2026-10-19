@@ -1,0 +1,494 @@
+[
+  {
+    "id": "FORMA-PRINT-001",
+    "name": "Горный маршрут",
+    "technique": "print",
+    "category": "Природа",
+    "style": "Графика",
+    "tags": [
+      "Природа",
+      "Горный маршрут",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNDAgMjEwTDE0MCA3MGw2NSAxMDAgNDAtNjUgODUgMTA1WiIvPjxwYXRoIGQ9Ik0xMTAgMTEybDMwLTQyIDMwIDQ2Ii8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNDAgMjEwTDE0MCA3MGw2NSAxMDAgNDAtNjUgODUgMTA1WiIvPjxwYXRoIGQ9Ik0xMTAgMTEybDMwLTQyIDMwIDQ2Ii8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-002",
+    "name": "Морской горизонт",
+    "technique": "print",
+    "category": "Путешествия",
+    "style": "Графика",
+    "tags": [
+      "Путешествия",
+      "Морской горизонт",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzUgMTcwcTQwLTUwIDgwIDB0ODAgMHQ4MCAwdDYwIDBNMzUgMjIwcTQwLTUwIDgwIDB0ODAgMHQ4MCAwdDYwIDAiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzUgMTcwcTQwLTUwIDgwIDB0ODAgMHQ4MCAwdDYwIDBNMzUgMjIwcTQwLTUwIDgwIDB0ODAgMHQ4MCAwdDYwIDAiLz48L2c+PC9zdmc+",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-003",
+    "name": "Солнечный день",
+    "technique": "print",
+    "category": "Природа",
+    "style": "Графика",
+    "tags": [
+      "Природа",
+      "Солнечный день",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48Y2lyY2xlIGN4PSIxODAiIGN5PSIxNTAiIHI9IjY1Ii8+PHBhdGggZD0iTTE4MCAzMHYyNW0wIDE5MHYyNU02MCAxNTBIMzVtMjkwIDBoLTI1TTgwIDUwbDI1IDI1bTE1MCAxNTAgMjUgMjVNODAgMjUwbDI1LTI1TTI1NSA3NWwyNS0yNSIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48Y2lyY2xlIGN4PSIxODAiIGN5PSIxNTAiIHI9IjY1Ii8+PHBhdGggZD0iTTE4MCAzMHYyNW0wIDE5MHYyNU02MCAxNTBIMzVtMjkwIDBoLTI1TTgwIDUwbDI1IDI1bTE1MCAxNTAgMjUgMjVNODAgMjUwbDI1LTI1TTI1NSA3NWwyNS0yNSIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-004",
+    "name": "Лунная орбита",
+    "technique": "print",
+    "category": "Космос",
+    "style": "Графика",
+    "tags": [
+      "Космос",
+      "Лунная орбита",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMjIwIDQ1YTExMCAxMTAgMCAxIDAgNjUgMTcwQTEwNSAxMDUgMCAwIDEgMjIwIDQ1WiIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMjIwIDQ1YTExMCAxMTAgMCAxIDAgNjUgMTcwQTEwNSAxMDUgMCAwIDEgMjIwIDQ1WiIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-005",
+    "name": "На своей волне",
+    "technique": "print",
+    "category": "Надписи",
+    "style": "Графика",
+    "tags": [
+      "Надписи",
+      "На своей волне",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNDAgMTkwcTcwLTEzMCAxNDAtMjV0MTQwLTI1Ii8+PHRleHQgeD0iMTgwIiB5PSIyNzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0cm9rZT0ibm9uZSIgZmlsbD0iY3VycmVudENvbG9yIiBmb250LXNpemU9IjIzIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+T1dOIFlPVVIgV0FWRTwvdGV4dD48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNDAgMTkwcTcwLTEzMCAxNDAtMjV0MTQwLTI1Ii8+PHRleHQgeD0iMTgwIiB5PSIyNzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0cm9rZT0ibm9uZSIgZmlsbD0iY3VycmVudENvbG9yIiBmb250LXNpemU9IjIzIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+T1dOIFlPVVIgV0FWRTwvdGV4dD48L2c+PC9zdmc+",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-006",
+    "name": "Кофейная пауза",
+    "technique": "print",
+    "category": "Город",
+    "style": "Графика",
+    "tags": [
+      "Город",
+      "Кофейная пауза",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNODUgMTA1aDE2MHY5MHEtODAgOTAtMTYwIDBaTTI0NSAxMTVxOTUgMCAwIDc1TTcwIDI2NWgxOTVNMTIwIDQwdjM1bTYwLTM1djM1Ii8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNODUgMTA1aDE2MHY5MHEtODAgOTAtMTYwIDBaTTI0NSAxMTVxOTUgMCAwIDc1TTcwIDI2NWgxOTVNMTIwIDQwdjM1bTYwLTM1djM1Ii8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-007",
+    "name": "Северная звезда",
+    "technique": "print",
+    "category": "Космос",
+    "style": "Графика",
+    "tags": [
+      "Космос",
+      "Северная звезда",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTgwIDM1bDM1IDg1IDk1IDgtNzMgNjAgMjIgOTUtNzktNTAtNzkgNTAgMjItOTUtNzMtNjAgOTUtOFoiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTgwIDM1bDM1IDg1IDk1IDgtNzMgNjAgMjIgOTUtNzktNTAtNzkgNTAgMjItOTUtNzMtNjAgOTUtOFoiLz48L2c+PC9zdmc+",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-008",
+    "name": "Лесная тропа",
+    "technique": "print",
+    "category": "Природа",
+    "style": "Графика",
+    "tags": [
+      "Природа",
+      "Лесная тропа",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTgwIDM1TDg1IDE2NWg0NWwtNjUgODBoMjMwbC02NS04MGg0NVpNMTgwIDI0NXY0NSIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTgwIDM1TDg1IDE2NWg0NWwtNjUgODBoMjMwbC02NS04MGg0NVpNMTgwIDI0NXY0NSIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-009",
+    "name": "Сердце города",
+    "technique": "print",
+    "category": "Город",
+    "style": "Графика",
+    "tags": [
+      "Город",
+      "Сердце города",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTgwIDI2MEw2NSAxNDVDMCA1MCAxNDAgMTUgMTgwIDExMCAyMjAgMTUgMzYwIDUwIDI5NSAxNDVaIi8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTgwIDI2MEw2NSAxNDVDMCA1MCAxNDAgMTUgMTgwIDExMCAyMjAgMTUgMzYwIDUwIDI5NSAxNDVaIi8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-010",
+    "name": "В движении",
+    "technique": "print",
+    "category": "Спорт",
+    "style": "Графика",
+    "tags": [
+      "Спорт",
+      "В движении",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNjUgMjEwbDc1LTEwMCA2MCA5MCA5NS0xMzBNMjM1IDcwaDYwdjYwTTY1IDI2MGgyMzAiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNjUgMjEwbDc1LTEwMCA2MCA5MCA5NS0xMzBNMjM1IDcwaDYwdjYwTTY1IDI2MGgyMzAiLz48L2c+PC9zdmc+",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-011",
+    "name": "Свободный полёт",
+    "technique": "print",
+    "category": "Животные",
+    "style": "Графика",
+    "tags": [
+      "Животные",
+      "Свободный полёт",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzUgMTcwcTkwLTEyMCAxNDUgMCA1NS0xMjAgMTQ1IDBNMTgwIDE3MHYzMCIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzUgMTcwcTkwLTEyMCAxNDUgMCA1NS0xMjAgMTQ1IDBNMTgwIDE3MHYzMCIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-PRINT-012",
+    "name": "Домашний кот",
+    "technique": "print",
+    "category": "Животные",
+    "style": "Графика",
+    "tags": [
+      "Животные",
+      "Домашний кот",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNODAgMTQ1VjU1bDcwIDQ1aDYwbDcwLTQ1djkwcTQwIDEzNS0xMDAgMTM1VDgwIDE0NVoiLz48cGF0aCBkPSJNMTIwIDE3MGgxNW05MCAwaDE1bS03MCAzMCAxMCAxMCAxMC0xME04MCAyMTBIMzBtMjUwIDBoNTAiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNODAgMTQ1VjU1bDcwIDQ1aDYwbDcwLTQ1djkwcTQwIDEzNS0xMDAgMTM1VDgwIDE0NVoiLz48cGF0aCBkPSJNMTIwIDE3MGgxNW05MCAwaDE1bS03MCAzMCAxMCAxMCAxMC0xME04MCAyMTBIMzBtMjUwIDBoNTAiLz48L2c+PC9zdmc+",
+    "placements": [
+      "center",
+      "left"
+    ],
+    "scale": 120,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-001",
+    "name": "Горный маршрут",
+    "technique": "logo",
+    "category": "Природа",
+    "style": "Контур",
+    "tags": [
+      "Природа",
+      "Горный маршрут",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik00MCAyMTBMMTQwIDcwbDY1IDEwMCA0MC02NSA4NSAxMDVaIi8+PHBhdGggZD0iTTExMCAxMTJsMzAtNDIgMzAgNDYiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik00MCAyMTBMMTQwIDcwbDY1IDEwMCA0MC02NSA4NSAxMDVaIi8+PHBhdGggZD0iTTExMCAxMTJsMzAtNDIgMzAgNDYiLz48L2c+PC9zdmc+",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-002",
+    "name": "Морской горизонт",
+    "technique": "logo",
+    "category": "Путешествия",
+    "style": "Контур",
+    "tags": [
+      "Путешествия",
+      "Морской горизонт",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0zNSAxNzBxNDAtNTAgODAgMHQ4MCAwdDgwIDB0NjAgME0zNSAyMjBxNDAtNTAgODAgMHQ4MCAwdDgwIDB0NjAgMCIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0zNSAxNzBxNDAtNTAgODAgMHQ4MCAwdDgwIDB0NjAgME0zNSAyMjBxNDAtNTAgODAgMHQ4MCAwdDgwIDB0NjAgMCIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-003",
+    "name": "Солнечный день",
+    "technique": "logo",
+    "category": "Природа",
+    "style": "Контур",
+    "tags": [
+      "Природа",
+      "Солнечный день",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxjaXJjbGUgY3g9IjE4MCIgY3k9IjE1MCIgcj0iNjUiLz48cGF0aCBkPSJNMTgwIDMwdjI1bTAgMTkwdjI1TTYwIDE1MEgzNW0yOTAgMGgtMjVNODAgNTBsMjUgMjVtMTUwIDE1MCAyNSAyNU04MCAyNTBsMjUtMjVNMjU1IDc1bDI1LTI1Ii8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxjaXJjbGUgY3g9IjE4MCIgY3k9IjE1MCIgcj0iNjUiLz48cGF0aCBkPSJNMTgwIDMwdjI1bTAgMTkwdjI1TTYwIDE1MEgzNW0yOTAgMGgtMjVNODAgNTBsMjUgMjVtMTUwIDE1MCAyNSAyNU04MCAyNTBsMjUtMjVNMjU1IDc1bDI1LTI1Ii8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-004",
+    "name": "Лунная орбита",
+    "technique": "logo",
+    "category": "Космос",
+    "style": "Контур",
+    "tags": [
+      "Космос",
+      "Лунная орбита",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0yMjAgNDVhMTEwIDExMCAwIDEgMCA2NSAxNzBBMTA1IDEwNSAwIDAgMSAyMjAgNDVaIi8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0yMjAgNDVhMTEwIDExMCAwIDEgMCA2NSAxNzBBMTA1IDEwNSAwIDAgMSAyMjAgNDVaIi8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-005",
+    "name": "На своей волне",
+    "technique": "logo",
+    "category": "Надписи",
+    "style": "Контур",
+    "tags": [
+      "Надписи",
+      "На своей волне",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik00MCAxOTBxNzAtMTMwIDE0MC0yNXQxNDAtMjUiLz48dGV4dCB4PSIxODAiIHk9IjI3NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3Ryb2tlPSJub25lIiBmaWxsPSJjdXJyZW50Q29sb3IiIGZvbnQtc2l6ZT0iMjMiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIj5PV04gWU9VUiBXQVZFPC90ZXh0PjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik00MCAxOTBxNzAtMTMwIDE0MC0yNXQxNDAtMjUiLz48dGV4dCB4PSIxODAiIHk9IjI3NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3Ryb2tlPSJub25lIiBmaWxsPSJjdXJyZW50Q29sb3IiIGZvbnQtc2l6ZT0iMjMiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIj5PV04gWU9VUiBXQVZFPC90ZXh0PjwvZz48L3N2Zz4=",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-006",
+    "name": "Кофейная пауза",
+    "technique": "logo",
+    "category": "Город",
+    "style": "Контур",
+    "tags": [
+      "Город",
+      "Кофейная пауза",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik04NSAxMDVoMTYwdjkwcS04MCA5MC0xNjAgMFpNMjQ1IDExNXE5NSAwIDAgNzVNNzAgMjY1aDE5NU0xMjAgNDB2MzVtNjAtMzV2MzUiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik04NSAxMDVoMTYwdjkwcS04MCA5MC0xNjAgMFpNMjQ1IDExNXE5NSAwIDAgNzVNNzAgMjY1aDE5NU0xMjAgNDB2MzVtNjAtMzV2MzUiLz48L2c+PC9zdmc+",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-007",
+    "name": "Северная звезда",
+    "technique": "logo",
+    "category": "Космос",
+    "style": "Контур",
+    "tags": [
+      "Космос",
+      "Северная звезда",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0xODAgMzVsMzUgODUgOTUgOC03MyA2MCAyMiA5NS03OS01MC03OSA1MCAyMi05NS03My02MCA5NS04WiIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0xODAgMzVsMzUgODUgOTUgOC03MyA2MCAyMiA5NS03OS01MC03OSA1MCAyMi05NS03My02MCA5NS04WiIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-008",
+    "name": "Лесная тропа",
+    "technique": "logo",
+    "category": "Природа",
+    "style": "Контур",
+    "tags": [
+      "Природа",
+      "Лесная тропа",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0xODAgMzVMODUgMTY1aDQ1bC02NSA4MGgyMzBsLTY1LTgwaDQ1Wk0xODAgMjQ1djQ1Ii8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0xODAgMzVMODUgMTY1aDQ1bC02NSA4MGgyMzBsLTY1LTgwaDQ1Wk0xODAgMjQ1djQ1Ii8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-009",
+    "name": "Сердце города",
+    "technique": "logo",
+    "category": "Город",
+    "style": "Контур",
+    "tags": [
+      "Город",
+      "Сердце города",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0xODAgMjYwTDY1IDE0NUMwIDUwIDE0MCAxNSAxODAgMTEwIDIyMCAxNSAzNjAgNTAgMjk1IDE0NVoiLz48L2c+PC9zdmc+",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNjNlMzYiIHN0cm9rZT0iIzI2M2UzNiIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0xODAgMjYwTDY1IDE0NUMwIDUwIDE0MCAxNSAxODAgMTEwIDIyMCAxNSAzNjAgNTAgMjk1IDE0NVoiLz48L2c+PC9zdmc+",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-010",
+    "name": "В движении",
+    "technique": "logo",
+    "category": "Спорт",
+    "style": "Контур",
+    "tags": [
+      "Спорт",
+      "В движении",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik02NSAyMTBsNzUtMTAwIDYwIDkwIDk1LTEzME0yMzUgNzBoNjB2NjBNNjUgMjYwaDIzMCIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiMyNTNkNjQiIHN0cm9rZT0iIzI1M2Q2NCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik02NSAyMTBsNzUtMTAwIDYwIDkwIDk1LTEzME0yMzUgNzBoNjB2NjBNNjUgMjYwaDIzMCIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-011",
+    "name": "Свободный полёт",
+    "technique": "logo",
+    "category": "Животные",
+    "style": "Контур",
+    "tags": [
+      "Животные",
+      "Свободный полёт",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0zNSAxNzBxOTAtMTIwIDE0NSAwIDU1LTEyMCAxNDUgME0xODAgMTcwdjMwIi8+PC9nPjwvc3ZnPg==",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiNhNDRhMzgiIHN0cm9rZT0iI2E0NGEzOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik0zNSAxNzBxOTAtMTIwIDE0NSAwIDU1LTEyMCAxNDUgME0xODAgMTcwdjMwIi8+PC9nPjwvc3ZnPg==",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  },
+  {
+    "id": "FORMA-LOGO-012",
+    "name": "Домашний кот",
+    "technique": "logo",
+    "category": "Животные",
+    "style": "Контур",
+    "tags": [
+      "Животные",
+      "Домашний кот",
+      "демо"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik04MCAxNDVWNTVsNzAgNDVoNjBsNzAtNDV2OTBxNDAgMTM1LTEwMCAxMzVUODAgMTQ1WiIvPjxwYXRoIGQ9Ik0xMjAgMTcwaDE1bTkwIDBoMTVtLTcwIDMwIDEwIDEwIDEwLTEwTTgwIDIxMEgzMG0yNTAgMGg1MCIvPjwvZz48L3N2Zz4=",
+    "thumbnail": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgMzYwIDMyMCI+PGcgY29sb3I9IiM3OTU4MjgiIHN0cm9rZT0iIzc5NTgyOCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiPjxwYXRoIGQ9Ik04MCAxNDVWNTVsNzAgNDVoNjBsNzAtNDV2OTBxNDAgMTM1LTEwMCAxMzVUODAgMTQ1WiIvPjxwYXRoIGQ9Ik0xMjAgMTcwaDE1bTkwIDBoMTVtLTcwIDMwIDEwIDEwIDEwLTEwTTgwIDIxMEgzMG0yNTAgMGg1MCIvPjwvZz48L3N2Zz4=",
+    "placements": [
+      "left"
+    ],
+    "scale": 100,
+    "published": true,
+    "demo": true
+  }
+]
